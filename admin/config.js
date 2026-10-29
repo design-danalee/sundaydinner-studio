@@ -2,7 +2,7 @@
 // Mirrors the old Decap backend block (design-danalee/hellodanalee-website @ main).
 export const CONFIG = {
   owner: "design-danalee",
-  repo: "hellodanalee-website",
+  repo: "sundaydinner-studio",
   branch: "main",
   // Assets are published at the same origin the CMS runs on — no hardcoded
   // domain, so this works correctly whether you're testing on a Cloudflare

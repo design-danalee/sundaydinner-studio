@@ -28,4 +28,4 @@ jobs:
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: "292683e638f285d1158d07585335d1fe"
-          command: pages deploy _site --project-name=hellodanalee-website
+          command: pages deploy _site --project-name=sundaydinner-studio
