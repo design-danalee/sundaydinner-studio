@@ -1,7 +1,7 @@
 @font-face {
-    font-family: 'GT Sectra Display';
-    src: url('/assets/GT-Sectra-Display-Light.woff') format('woff');
-    font-weight: 300;
+    font-family: 'Canela';
+    src: url('/assets/Canela-Thin.otf') format('opentype');
+    font-weight: 100;
     /* Upright cut, declared italic so headlines stay italic in the Instrument Serif fallback without faux-slanting this one. */
     font-style: italic;
     font-display: swap;
@@ -109,8 +109,8 @@ a:hover{
         align-content: flex-end;
     }
     .hero-text {
-        font-family: 'GT Sectra Display', 'Instrument Serif', serif;
-        font-weight: 300;
+        font-family: 'Canela', 'Instrument Serif', serif;
+        font-weight: 100;
         font-style: italic;
         font-size: 4.2rem;
         line-height: 94%;
