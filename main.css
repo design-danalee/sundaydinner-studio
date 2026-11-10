@@ -1,8 +1,7 @@
 @font-face {
-    font-family: 'Canela';
-    src: url('/assets/Canela-Thin.otf') format('opentype');
+    font-family: 'GT Alpina Condensed';
+    src: url('/assets/GT-Alpina-Condensed-Thin-Italic.otf') format('opentype');
     font-weight: 100;
-    /* Upright cut, declared italic so headlines stay italic in the Instrument Serif fallback without faux-slanting this one. */
     font-style: italic;
     font-display: swap;
 }
@@ -109,7 +108,7 @@ a:hover{
         align-content: flex-end;
     }
     .hero-text {
-        font-family: 'Canela', 'Instrument Serif', serif;
+        font-family: 'GT Alpina Condensed', 'Instrument Serif', serif;
         font-weight: 100;
         font-style: italic;
         font-size: 4.2rem;
